@@ -1,0 +1,15 @@
+.underlineInput{
+    border-top:none;
+    border-left:none;
+    border-right:none;
+}
+.underlineInput:focus{
+    outline:none;
+}
+#itemsdisplaySpace{
+    padding: 5px;
+}
+.faint{
+    opacity: 0.5;
+    color:gray;
+}
